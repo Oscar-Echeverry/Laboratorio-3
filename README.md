@@ -1,6 +1,6 @@
 # 💻 **Laboratorio de Informática 2** - *Universidad de Antioquia* 🎓
 
-¡Bienvenido al repositorio del **Laboratorio de Informática 2**! 🎉 Este proyecto forma parte del curso ofrecido en la **Universidad de Antioquia**, donde se desarrollan soluciones en **C++** para distintos problemas y ejercicios académicos.
+¡Bienvenido al repositorio del **Laboratorio de Informática 3**! 🎉 Este proyecto forma parte del curso ofrecido en la **Universidad de Antioquia**, donde se desarrollan soluciones en **C++** para distintos problemas y ejercicios académicos.
 
 ## 📄 **Descripción**
 Este repositorio contiene implementaciones en **C++** que abordan ejercicios del curso de **Laboratorio de Informática 2**. El objetivo principal es poner en práctica conceptos fundamentales de programación y algoritmos avanzados. 🚀
