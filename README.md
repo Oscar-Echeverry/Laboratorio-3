@@ -1,4 +1,4 @@
-# 💻 **Laboratorio de Informática 2** - *Universidad de Antioquia* 🎓
+# 💻 **Laboratorio de Informática 3** - *Universidad de Antioquia* 🎓
 
 ¡Bienvenido al repositorio del **Laboratorio de Informática 3**! 🎉 Este proyecto forma parte del curso ofrecido en la **Universidad de Antioquia**, donde se desarrollan soluciones en **C++** para distintos problemas y ejercicios académicos.
 
